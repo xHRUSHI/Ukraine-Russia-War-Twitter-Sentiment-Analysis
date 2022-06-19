@@ -2,5 +2,5 @@
 
 
 
-finf=d the data set ::
+find the data set ::
 https://www.kaggle.com/datasets/towhidultonmoy/russia-vs-ukraine-tweets-datasetdaily-updated
